@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1500304787 source:d:\ionut\sursew\time\main.cpp
+	<iostream>
+	"Time.h"
+	<stdexcept>
+
+1500304787 d:\ionut\sursew\time\time.h
+
+1500303980 source:d:\ionut\sursew\time\timetest.cpp
+	<iostream>
+	"Time.h"
+
