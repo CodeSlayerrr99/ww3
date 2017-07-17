@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1500282654 source:d:\ionut\sursew\author class\authortest.cpp
+	<iostream>
+	"Author.h"
+
+1500283685 d:\ionut\sursew\author class\author.h
+	<string>
+
+1500283767 source:d:\ionut\sursew\author class\main.cpp
+	<iostream>
+	"Author.h"
+
+1500283756 source:d:\ionut\sursew\author class\book.cpp
+	<iostream>
+	<string>
+	"Book.h"
+
+1500284135 d:\ionut\sursew\author class\book.h
+	<string>
+	"Author.h"
+
+1500283756 source:d:\ionut\sursew\author class\booktest.cpp
+	<iostream>
+	<string>
+	"Book.h"
+
