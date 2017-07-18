@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1500373339 source:d:\ionut\sursew\shapes\circle.cpp
+	<iostream>
+	"Circle.h"
+
+1500373442 source:d:\ionut\sursew\shapes\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"Circle.h"
+
+1500372955 d:\ionut\sursew\shapes\rectangle.h
+	"Shape.h"
+
+1500373590 d:\ionut\sursew\shapes\shape.h
+
+1500373339 d:\ionut\sursew\shapes\circle.h
+	"Shape.h"
+
+1500372955 source:d:\ionut\sursew\shapes\shape.cpp
+	<iostream>
+	"Shape.h"
+
+1500373074 source:d:\ionut\sursew\shapes\rectangle.cpp
+	<iostream>
+	"RECTANGLE.H"
+
