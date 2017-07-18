@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1500363455 source:d:\ionut\sursew\subclass and superclass\main.cpp
+	<iostream>
+	"movablePoint.h"
+
+1500363606 d:\ionut\sursew\subclass and superclass\point.h
+
+1500363596 source:d:\ionut\sursew\subclass and superclass\point.cpp
+	<iostream>
+	<math.h>
+	"Point.h"
+
+1500362797 d:\ionut\sursew\subclass and superclass\movablepoint.h
+	"Point.h"
+
+1500362789 source:d:\ionut\sursew\subclass and superclass\movablepoint.cpp
+	<iostream>
+	"movablePoint.h"
+
